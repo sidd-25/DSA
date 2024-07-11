@@ -1,0 +1,7 @@
+# Ignore all executable files (no extension)
+*
+!*/
+!*.*
+
+# Ignore the .vscode directory
+.vscode/
