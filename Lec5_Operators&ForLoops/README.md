@@ -1,4 +1,4 @@
-## Lecture 5: Mathematical Operations and Bit Manipulation
+## Lecture 5
 
 ### [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)
 - **Description:** Given an integer number `n`, return the difference between the product of its digits and the sum of its digits.
